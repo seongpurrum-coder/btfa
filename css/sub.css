@@ -814,6 +814,9 @@ h5 span {
 .category-list .category3 {
   margin-left: 260px;
 }
+.company-list table thead td a:hover{
+  text-decoration: underline;
+}
 @media(max-width: 1200px){
   .business-tab2{
     display: none;
