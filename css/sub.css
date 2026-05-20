@@ -814,7 +814,11 @@ h5 span {
 .category-list .category3 {
   margin-left: 260px;
 }
-
+@media(max-width: 1200px){
+  .business-tab{
+    display: none;
+  }
+}
 @media(max-width: 1024px) {
   .business-tab li {
     padding: 16px 0;
