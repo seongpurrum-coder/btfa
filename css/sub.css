@@ -814,7 +814,7 @@ h5 span {
 .category-list .category3 {
   margin-left: 260px;
 }
-.company-list table thead td:hover a{
+.site:hover a{
   text-decoration: underline;
 }
 @media(max-width: 1200px){
